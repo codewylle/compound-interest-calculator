@@ -1,0 +1,7 @@
+.calc {
+    max-width: 375px;
+}
+
+.calc__header {
+    text-align: right;
+}

@@ -1,0 +1,24 @@
+.input-stateless {
+    display: flex;
+    padding-bottom: 8px;
+}
+
+.input-stateless_invalid {
+    background-color: red;
+}
+
+.input-stateless__label {
+    min-width: 105px;
+    text-align: right;
+}
+
+.input-stateless__input {
+    width: 100%;
+    margin-left: 8px;
+    line-height: 300%;
+    text-align: right;
+}
+
+.input-stateless__input_ro {
+    border-width: 0;
+}

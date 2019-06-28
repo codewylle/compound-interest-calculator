@@ -1,6 +1,6 @@
 {
-	"name": "compound-interest",
-	"version": "0.0.0",
+	"name": "compound-interest-calculator",
+	"version": "0.1.0",
 	"private": true,
 	"scripts": {
 		"start": "react-scripts start",
